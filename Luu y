@@ -21,3 +21,7 @@ Tích hợp ngầm các công cụ theo dõi (như Firebase Crashlytics, Sentry)
 +) Bộ thiết lập thời gian (Timer & Schedule):
 - Đếm ngược tức thì: Chọn nhanh khoảng thời gian (ví dụ: 30 phút, 1 tiếng, 2 tiếng) và bấm bắt đầu ngay.
 - Lập lịch cố định: Hẹn khung giờ tự động kích hoạt mỗi ngày (Ví dụ từ 8:00 đến 11:30 từ thứ Hai - thứ Sáu).
++) Bộ điều khiển âm thanh & Chế độ Không làm phiền
+- Lưu lại trạng thái âm lượng hiện tại của máy trước khi tắt tiếng.
+- Tự động chuyển hệ thống sang chế độ im lặng tuyệt đối (tắt chuông cuộc gọi, tin nhắn, thông báo ứng dụng và báo thức) khi bắt đầu.
+- Tự động khôi phục lại đúng mức âm lượng ban đầu ngay khi hết giờ.
