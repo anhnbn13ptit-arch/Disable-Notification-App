@@ -18,3 +18,6 @@
 +) Giám sát lỗi tự động (Crash Reporting)
 Tích hợp ngầm các công cụ theo dõi (như Firebase Crashlytics, Sentry) dành cho đội ngũ phát triển. Khi ứng dụng bị treo hoặc văng (crash), hệ thống sẽ tự động gửi báo cáo chi tiết về dòng code gây lỗi để lập trình viên xử lý ngay lập tức.
 +) Khả năng tiếp cận (Accessibility - a11y)
++) Bộ thiết lập thời gian (Timer & Schedule):
+- Đếm ngược tức thì: Chọn nhanh khoảng thời gian (ví dụ: 30 phút, 1 tiếng, 2 tiếng) và bấm bắt đầu ngay.
+- Lập lịch cố định: Hẹn khung giờ tự động kích hoạt mỗi ngày (Ví dụ từ 8:00 đến 11:30 từ thứ Hai - thứ Sáu).
