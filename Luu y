@@ -17,3 +17,4 @@
 +) Hẹn giờ trong 1 khoảng thời gian nhất định , app sẽ tắt tiếng chuông tin nhắn, cuộc gọi, báo thức, các thông báo lặt vặt của app khác trong khoảng thời gian làm việc hoặc thời gian học.
 +) Giám sát lỗi tự động (Crash Reporting)
 Tích hợp ngầm các công cụ theo dõi (như Firebase Crashlytics, Sentry) dành cho đội ngũ phát triển. Khi ứng dụng bị treo hoặc văng (crash), hệ thống sẽ tự động gửi báo cáo chi tiết về dòng code gây lỗi để lập trình viên xử lý ngay lập tức.
++) Khả năng tiếp cận (Accessibility - a11y)
