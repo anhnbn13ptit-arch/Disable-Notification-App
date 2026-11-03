@@ -2,7 +2,7 @@
 +) Sau mỗi lần code, comment: Viết code về tính năng gì, code đề làm gì.
 +) Quy chuẩn Commit: Viết commit message ngắn gọn, rõ nghĩa và theo cấu trúc chuẩn
 +) Mỗi lần muốn sửa code thì phải mô tả rõ mục đích thay đổi, ảnh hưởng liên quan và các bước kiểm thử.
-(Giữ dung lượng mỗi PR ở mức nhỏ (dưới 400 dòng code). Các tính năng lớn phải được chia nhỏ để người sau không bỏ sót lỗi logic.
+(Giữ dung lượng mỗi PR ở mức nhỏ (dưới 400 dòng code). Các tính năng lớn phải được chia nhỏ để người sau không bỏ sót lỗi logic.)
 
 
 
