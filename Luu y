@@ -5,6 +5,9 @@
 (Giữ dung lượng mỗi PR ở mức nhỏ (dưới 400 dòng code). Các tính năng lớn phải được chia nhỏ để người sau không bỏ sót lỗi logic.)
 +) Cập nhật chi tiết file README.md với yêu cầu cấu hình (Node version, Docker), cách cài đặt, chạy dự án và danh sách lệnh khởi động.
 +) Mỗi lần viết code xong thì cập nhập tất cả những thay đổi lên trang này.
++) Tách biệt rõ ràng các môi trường: Local (máy cá nhân), Staging (kiểm thử nội bộ), UAT (khách hàng kiểm thử) và Production (chạy thật).
++) Thiết lập pipeline CI/CD để tự động chạy Unit Test, Integration Test và quét bảo mật mã nguồn mỗi khi có code mới được đẩy lên.|
++) Xác định rõ Tiêu chuẩn Hoàn thành (Definition of Done): code chạy đúng, vượt qua test, đã được review và tài liệu đã cập nhật đầy đủ.
 
 
 
